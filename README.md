@@ -1,1 +1,1 @@
-Blitz first editted readme 
+Blitz first readme 
